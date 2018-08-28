@@ -1,0 +1,29 @@
+{
+  "name": "tooltip-toast",
+  "version": "1.0.1",
+  "description": "component of tooltip",
+  "readmeFilename": "README.md",
+  "main": "js/tootip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://saulocastrolp@bitbucket.org/saulocastrolp/tooltip.git"
+  },
+  "keywords": [
+    "tooltip",
+    "popup",
+    "toast",
+    "web"
+  ],
+  "author": {
+    "name": "Saulo Castro",
+    "email": "saulocastrolp@gmail.com"
+  },
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/saulocastrolp/tooltip#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0"
+  }
+}
